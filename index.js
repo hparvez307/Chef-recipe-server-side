@@ -12,7 +12,7 @@ app.get('/', (req,res)=> {
 
 app.get('/:id', (req,res)=> {
 
-   
+    const id = req.params.id;
     const selectedChef = chef.find( c => c.id === id);
 
     res.send(selectedChef);
