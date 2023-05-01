@@ -1,21 +1,331 @@
 [
     {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "1",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "author": {
-        "name": "Jimmy Dane",
-        "published_date": "2022-08-24 17:27:34",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+        "id": "1",
+        "name": "Chef Ahmed Hossain",
+        "experience": "7 years of experience",
+        "numbers_of_recipes": "3 recipes",
+        "likes": "10k",
+        "img": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "recipes": [
+            {
+                "recipe_name": "Mutton Curry with Potatoes",
+                "ingredients": [
+                    "1 kgMutton",
+                    "4 pcsPotato",
+                    "1/2 cupChopped onion",
+                    "1 tsp eachGinger-garlic paste",
+                    "1 tspCumin powder",
+                    "4 to 6 green cardamom pods"
+                ],
+                "cooking_method": "Cut the meat into small pieces, wash and drain properly. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color. Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside. Now in the same oil add chopped onions, bay leaves, cloves and cook for a minute to make onions tender. No need to fry onions to brown. Add garlic and ginger pastes and stir for a while. Now add cumin powder, red chili powder, cinnamon powder, cardamom powder and some water. Mix and cook well till the spices release oil. Now add meat pieces and mix them properly. No need to add water in this stage since meat releases water. Cook for 5 minutes",
+                "rating": "4.5"
+            },
+
+            {
+                "recipe_name": "Homestyle Chicken Korma",
+                
+                "ingredients": [
+                    "2 pounds bone-in chicken (dark meat best)",
+                    "2 medium onions  peeled",
+                    "1.5  inch of ginger, chopped",
+                    "4 cloves garlic, chopped",
+                    "½ cup whole-milk yogurt",
+                    "4 to 6 green cardamom pods"
+                ],
+                "cooking_method": "Thinly slice one onion and set aside Roughly chop the other onion, and then puree it in a blender with the garlic and ginger until smooth. Add water if necessary. Combine the puree, chicken, yogurt, cardamom, cinnamon, peppercorns, and bay leaves in a covered Dutch oven and simmer over medium-high heat, stirring occasionally for 10-15 minutes. Uncover and bring the pot to a low simmer Cook until chicken is tender. Flip occasionally. 20-35 minutes.Add in the sliced chilis and sugar and stir. Adjust the thickness of the gravy by adding water or cooking it down. Heat the ghee and the thinly sliced onions in a pan over medium heat until they are a rich brown. 5-7 minutes. Season the onions with a pinch of salt and stir it into the korma.",
+                "rating": "4.5"
+            },
+
+            {
+                "recipe_name": "Spicy Dry Chicken – Kosha Murgir Mangsho",
+                "ingredients": [
+                    "Chicken 100 grams. A whole chicken cut up into 8-10 pieces will work gret",
+                    "1/2 cup mustard oil",
+                    "4 bay leaves",
+                    "4-6 dried red chilies",
+                    "4 whole green cardamom",
+                    "2 tbsp sugar"
+                ],
+                "cooking_method": "Heat the mustard oil in a deep wok or saucepan over medium-high heat When hot add the cardamom pods bay leaves dried red chili and then sugar and stir for a minute Meanwhile blend garlic ginger and onion to make a paste and add it to the caramelized onions Saute 3-4 minutes and then add in the chicken Stir the chicken in the oil for 2 minutes until the chicken is uniformly coated with the spicesAdd the turmeric powder and saute an additional 5-6 minutes Add salt and stir Keep sauteing until the chicken surface or the skin starts turning a bit brown Now add the coriander powder red chili powder and cumin powder. Stir in the spices well and saute for 2-3 minutes Add the chopped tomatoes and further saute for 5-8 minutes Keep frying until the tomatoes are completely incorporated. If the spices start sticking to the po add a tablespoon of water or more to deglaze but keep in mind as to keep the dish just moist and not waterlogged.",
+                "rating": "4.5"
+            }
+
+        ],
+        "description": " Chef Ahmed Hossain hails from Khulna, he started his career in Singapore some 37 years ago and graduated from Sydney, Australia and further studied in Melbourne and Miami, USA. Known for his eclectic style of cuisine he is awarded as a “Top 10 Chef in the world 1998”, in Melbourne and “Chef of the year 1991” in the Pacific, PNG. Chef Ahmed Hossain has traveled and prepared food at five-star hotels and cruise.."
+    },
+
+    {
+        "id": "2",
+        "name": "Mr. Tony Khan",
+        "experience": "5 years of experience",
+        "numbers_of_recipes": "3 recipes",
+        "likes": "13k",
+        "img": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
+        "recipes": [
+            {
+                "recipe_name": "Mutton Curry with Potatoes",
+                "ingredients": [
+                    "1 kgMutton",
+                    "4 pcsPotato",
+                    "1/2 cupChopped onion",
+                    "1 tsp eachGinger-garlic paste",
+                    "1 tspCumin powder",
+                    "4 to 6 green cardamom pods"
+                ],
+                "cooking_method": "Cut the meat into small pieces, wash and drain properly. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color. Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside. Now in the same oil add chopped onions, bay leaves, cloves and cook for a minute to make onions tender. No need to fry onions to brown. Add garlic and ginger pastes and stir for a while. Now add cumin powder, red chili powder, cinnamon powder, cardamom powder and some water. Mix and cook well till the spices release oil. Now add meat pieces and mix them properly. No need to add water in this stage since meat releases water. Cook for 5 minutes",
+                "rating": "4.5"
+            },
+
+            {
+                "recipe_name": "Homestyle Chicken Korma",
+                
+                "ingredients": [
+                    "2 pounds bone-in chicken (dark meat best)",
+                    "2 medium onions  peeled",
+                    "1.5  inch of ginger, chopped",
+                    "4 cloves garlic, chopped",
+                    "½ cup whole-milk yogurt",
+                    "4 to 6 green cardamom pods"
+                ],
+                "cooking_method": "Thinly slice one onion and set aside Roughly chop the other onion, and then puree it in a blender with the garlic and ginger until smooth. Add water if necessary. Combine the puree, chicken, yogurt, cardamom, cinnamon, peppercorns, and bay leaves in a covered Dutch oven and simmer over medium-high heat, stirring occasionally for 10-15 minutes. Uncover and bring the pot to a low simmer Cook until chicken is tender. Flip occasionally. 20-35 minutes.Add in the sliced chilis and sugar and stir. Adjust the thickness of the gravy by adding water or cooking it down. Heat the ghee and the thinly sliced onions in a pan over medium heat until they are a rich brown. 5-7 minutes. Season the onions with a pinch of salt and stir it into the korma.",
+                "rating": "4.5"
+            },
+
+            {
+                "recipe_name": "Spicy Dry Chicken – Kosha Murgir Mangsho",
+                "ingredients": [
+                    "Chicken 100 grams. A whole chicken cut up into 8-10 pieces will work gret",
+                    "1/2 cup mustard oil",
+                    "4 bay leaves",
+                    "4-6 dried red chilies",
+                    "4 whole green cardamom",
+                    "2 tbsp sugar"
+                ],
+                "cooking_method": "Heat the mustard oil in a deep wok or saucepan over medium-high heat When hot add the cardamom pods bay leaves dried red chili and then sugar and stir for a minute Meanwhile blend garlic ginger and onion to make a paste and add it to the caramelized onions Saute 3-4 minutes and then add in the chicken Stir the chicken in the oil for 2 minutes until the chicken is uniformly coated with the spicesAdd the turmeric powder and saute an additional 5-6 minutes Add salt and stir Keep sauteing until the chicken surface or the skin starts turning a bit brown Now add the coriander powder red chili powder and cumin powder. Stir in the spices well and saute for 2-3 minutes Add the chopped tomatoes and further saute for 5-8 minutes Keep frying until the tomatoes are completely incorporated. If the spices start sticking to the po add a tablespoon of water or more to deglaze but keep in mind as to keep the dish just moist and not waterlogged.",
+                "rating": "4.5"
+            }
+
+        ],
+        "description": "Chef Mr. Tony Khan hails from Khulna, he started his career in Singapore some 37 years ago and graduated from Sydney, Australia and further studied in Melbourne and Miami, USA. Known for his eclectic style of cuisine he is awarded as a “Top 10 Chef in the world 1998”, in Melbourne and “Chef of the year 1991” in the Pacific, PNG. Mr. Khan has traveled and prepared food at five-star hotels and cruise.."
+    },
+
+    {
+        "id": "3",
+        "name": "Chef Mohammed Ali",
+        "experience": "6 years of experience",
+        "numbers_of_recipes": "3 recipes",
+        "likes": "12k",
+        "img": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+        "recipes": [
+            {
+                "recipe_name": "Mutton Curry with Potatoes",
+                "ingredients": [
+                    "1 kgMutton",
+                    "4 pcsPotato",
+                    "1/2 cupChopped onion",
+                    "1 tsp eachGinger-garlic paste",
+                    "1 tspCumin powder",
+                    "4 to 6 green cardamom pods"
+                ],
+                "cooking_method": "Cut the meat into small pieces, wash and drain properly. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color. Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside. Now in the same oil add chopped onions, bay leaves, cloves and cook for a minute to make onions tender. No need to fry onions to brown. Add garlic and ginger pastes and stir for a while. Now add cumin powder, red chili powder, cinnamon powder, cardamom powder and some water. Mix and cook well till the spices release oil. Now add meat pieces and mix them properly. No need to add water in this stage since meat releases water. Cook for 5 minutes",
+                "rating": "4.5"
+            },
+
+            {
+                "recipe_name": "Homestyle Chicken Korma",
+                
+                "ingredients": [
+                    "2 pounds bone-in chicken (dark meat best)",
+                    "2 medium onions  peeled",
+                    "1.5  inch of ginger, chopped",
+                    "4 cloves garlic, chopped",
+                    "½ cup whole-milk yogurt",
+                    "4 to 6 green cardamom pods"
+                ],
+                "cooking_method": "Thinly slice one onion and set aside Roughly chop the other onion, and then puree it in a blender with the garlic and ginger until smooth. Add water if necessary. Combine the puree, chicken, yogurt, cardamom, cinnamon, peppercorns, and bay leaves in a covered Dutch oven and simmer over medium-high heat, stirring occasionally for 10-15 minutes. Uncover and bring the pot to a low simmer Cook until chicken is tender. Flip occasionally. 20-35 minutes.Add in the sliced chilis and sugar and stir. Adjust the thickness of the gravy by adding water or cooking it down. Heat the ghee and the thinly sliced onions in a pan over medium heat until they are a rich brown. 5-7 minutes. Season the onions with a pinch of salt and stir it into the korma.",
+                "rating": "4.5"
+            },
+
+            {
+                "recipe_name": "Spicy Dry Chicken – Kosha Murgir Mangsho",
+                "ingredients": [
+                    "Chicken 100 grams. A whole chicken cut up into 8-10 pieces will work gret",
+                    "1/2 cup mustard oil",
+                    "4 bay leaves",
+                    "4-6 dried red chilies",
+                    "4 whole green cardamom",
+                    "2 tbsp sugar"
+                ],
+                "cooking_method": "Heat the mustard oil in a deep wok or saucepan over medium-high heat When hot add the cardamom pods bay leaves dried red chili and then sugar and stir for a minute Meanwhile blend garlic ginger and onion to make a paste and add it to the caramelized onions Saute 3-4 minutes and then add in the chicken Stir the chicken in the oil for 2 minutes until the chicken is uniformly coated with the spicesAdd the turmeric powder and saute an additional 5-6 minutes Add salt and stir Keep sauteing until the chicken surface or the skin starts turning a bit brown Now add the coriander powder red chili powder and cumin powder. Stir in the spices well and saute for 2-3 minutes Add the chopped tomatoes and further saute for 5-8 minutes Keep frying until the tomatoes are completely incorporated. If the spices start sticking to the po add a tablespoon of water or more to deglaze but keep in mind as to keep the dish just moist and not waterlogged.",
+                "rating": "4.5"
+            }
+
+        ],
+        "description": " Chef Mohammed Ali hails from Khulna, he started his career in Singapore some 37 years ago and graduated from Sydney, Australia and further studied in Melbourne and Miami, USA. Known for his eclectic style of cuisine he is awarded as a “Top 10 Chef in the world 1998”, in Melbourne and “Chef of the year 1991” in the Pacific, PNG. Mr. Mohammed Ali has traveled and prepared food at five-star hotels and cruise.."
+    },
+
+    {
+        "id": "4",
+        "name": "Chef Rodela Islam",
+        "experience": "8 years of experience",
+        "numbers_of_recipes": "3 recipes",
+        "likes": "15k",
+        "img": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "recipes": [
+            {
+                "recipe_name": "Mutton Curry with Potatoes",
+                "ingredients": [
+                    "1 kgMutton",
+                    "4 pcsPotato",
+                    "1/2 cupChopped onion",
+                    "1 tsp eachGinger-garlic paste",
+                    "1 tspCumin powder",
+                    "4 to 6 green cardamom pods"
+                ],
+                "cooking_method": "Cut the meat into small pieces, wash and drain properly. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color. Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside. Now in the same oil add chopped onions, bay leaves, cloves and cook for a minute to make onions tender. No need to fry onions to brown. Add garlic and ginger pastes and stir for a while. Now add cumin powder, red chili powder, cinnamon powder, cardamom powder and some water. Mix and cook well till the spices release oil. Now add meat pieces and mix them properly. No need to add water in this stage since meat releases water. Cook for 5 minutes",
+                "rating": "4.5"
+            },
+
+            {
+                "recipe_name": "Homestyle Chicken Korma",
+                
+                "ingredients": [
+                    "2 pounds bone-in chicken (dark meat best)",
+                    "2 medium onions  peeled",
+                    "1.5  inch of ginger, chopped",
+                    "4 cloves garlic, chopped",
+                    "½ cup whole-milk yogurt",
+                    "4 to 6 green cardamom pods"
+                ],
+                "cooking_method": "Thinly slice one onion and set aside Roughly chop the other onion, and then puree it in a blender with the garlic and ginger until smooth. Add water if necessary. Combine the puree, chicken, yogurt, cardamom, cinnamon, peppercorns, and bay leaves in a covered Dutch oven and simmer over medium-high heat, stirring occasionally for 10-15 minutes. Uncover and bring the pot to a low simmer Cook until chicken is tender. Flip occasionally. 20-35 minutes.Add in the sliced chilis and sugar and stir. Adjust the thickness of the gravy by adding water or cooking it down. Heat the ghee and the thinly sliced onions in a pan over medium heat until they are a rich brown. 5-7 minutes. Season the onions with a pinch of salt and stir it into the korma.",
+                "rating": "4.5"
+            },
+
+            {
+                "recipe_name": "Spicy Dry Chicken – Kosha Murgir Mangsho",
+                "ingredients": [
+                    "Chicken 100 grams. A whole chicken cut up into 8-10 pieces will work gret",
+                    "1/2 cup mustard oil",
+                    "4 bay leaves",
+                    "4-6 dried red chilies",
+                    "4 whole green cardamom",
+                    "2 tbsp sugar"
+                ],
+                "cooking_method": "Heat the mustard oil in a deep wok or saucepan over medium-high heat When hot add the cardamom pods bay leaves dried red chili and then sugar and stir for a minute Meanwhile blend garlic ginger and onion to make a paste and add it to the caramelized onions Saute 3-4 minutes and then add in the chicken Stir the chicken in the oil for 2 minutes until the chicken is uniformly coated with the spicesAdd the turmeric powder and saute an additional 5-6 minutes Add salt and stir Keep sauteing until the chicken surface or the skin starts turning a bit brown Now add the coriander powder red chili powder and cumin powder. Stir in the spices well and saute for 2-3 minutes Add the chopped tomatoes and further saute for 5-8 minutes Keep frying until the tomatoes are completely incorporated. If the spices start sticking to the po add a tablespoon of water or more to deglaze but keep in mind as to keep the dish just moist and not waterlogged.",
+                "rating": "4.5"
+            }
+
+        ],
+        "description": "Chef Rodela Islam hails from Khulna, he started his career in Singapore some 37 years ago and graduated from Sydney, Australia and further studied in Melbourne and Miami, USA. Known for his eclectic style of cuisine he is awarded as a “Top 10 Chef in the world 1998”, in Melbourne and “Chef of the year 1991” in the Pacific, PNG. Mrs. Rodela Islam has traveled and prepared food at five-star hotels and cruise.."
+    },
+
+    {
+        "id": "5",
+        "name": "Chef Erfan Hossain",
+        "experience": "7.5 years of experience",
+        "numbers_of_recipes": "3 recipes",
+        "likes": "16k",
+        "img": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+        "recipes": [
+            {
+                "recipe_name": "Mutton Curry with Potatoes",
+                "ingredients": [
+                    "1 kgMutton",
+                    "4 pcsPotato",
+                    "1/2 cupChopped onion",
+                    "1 tsp eachGinger-garlic paste",
+                    "1 tspCumin powder",
+                    "4 to 6 green cardamom pods"
+                ],
+                "cooking_method": "Cut the meat into small pieces, wash and drain properly. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color. Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside. Now in the same oil add chopped onions, bay leaves, cloves and cook for a minute to make onions tender. No need to fry onions to brown. Add garlic and ginger pastes and stir for a while. Now add cumin powder, red chili powder, cinnamon powder, cardamom powder and some water. Mix and cook well till the spices release oil. Now add meat pieces and mix them properly. No need to add water in this stage since meat releases water. Cook for 5 minutes",
+                "rating": "4.7"
+            },
+
+            {
+                "recipe_name": "Homestyle Chicken Korma",
+                
+                "ingredients": [
+                    "2 pounds bone-in chicken (dark meat best)",
+                    "2 medium onions  peeled",
+                    "1.5  inch of ginger, chopped",
+                    "4 cloves garlic, chopped",
+                    "½ cup whole-milk yogurt",
+                    "4 to 6 green cardamom pods"
+                ],
+                "cooking_method": "Thinly slice one onion and set aside Roughly chop the other onion, and then puree it in a blender with the garlic and ginger until smooth. Add water if necessary. Combine the puree, chicken, yogurt, cardamom, cinnamon, peppercorns, and bay leaves in a covered Dutch oven and simmer over medium-high heat, stirring occasionally for 10-15 minutes. Uncover and bring the pot to a low simmer Cook until chicken is tender. Flip occasionally. 20-35 minutes.Add in the sliced chilis and sugar and stir. Adjust the thickness of the gravy by adding water or cooking it down. Heat the ghee and the thinly sliced onions in a pan over medium heat until they are a rich brown. 5-7 minutes. Season the onions with a pinch of salt and stir it into the korma.",
+                "rating": "4.5"
+            },
+
+            {
+                "recipe_name": "Spicy Dry Chicken – Kosha Murgir Mangsho",
+                "ingredients": [
+                    "Chicken 100 grams. A whole chicken cut up into 8-10 pieces will work gret",
+                    "1/2 cup mustard oil",
+                    "4 bay leaves",
+                    "4-6 dried red chilies",
+                    "4 whole green cardamom",
+                    "2 tbsp sugar"
+                ],
+                "cooking_method": "Heat the mustard oil in a deep wok or saucepan over medium-high heat When hot add the cardamom pods bay leaves dried red chili and then sugar and stir for a minute Meanwhile blend garlic ginger and onion to make a paste and add it to the caramelized onions Saute 3-4 minutes and then add in the chicken Stir the chicken in the oil for 2 minutes until the chicken is uniformly coated with the spicesAdd the turmeric powder and saute an additional 5-6 minutes Add salt and stir Keep sauteing until the chicken surface or the skin starts turning a bit brown Now add the coriander powder red chili powder and cumin powder. Stir in the spices well and saute for 2-3 minutes Add the chopped tomatoes and further saute for 5-8 minutes Keep frying until the tomatoes are completely incorporated. If the spices start sticking to the po add a tablespoon of water or more to deglaze but keep in mind as to keep the dish just moist and not waterlogged.",
+                "rating": "4.5"
+            }
+
+        ],
+        "description": "Chef Erfan Hossain hails from Khulna, he started his career in Singapore some 37 years ago and graduated from Sydney, Australia and further studied in Melbourne and Miami, USA. Known for his eclectic style of cuisine he is awarded as a “Top 10 Chef in the world 1998”, in Melbourne and “Chef of the year 1991” in the Pacific, PNG. Mr. Erfan Hossain has traveled and prepared food at five-star hotels and cruise.."
+    },
+
+    {
+        "id": "6",
+        "name": "Chef Chef Fakruddin",
+        "experience": "9 years of experience",
+        "numbers_of_recipes": "3 recipes",
+        "likes": "18k",
+        "img": "https://images.unsplash.com/photo-1543716627-839b54c40519?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "recipes": [
+            {
+                "recipe_name": "Mutton Curry with Potatoes",
+                "ingredients": [
+                    "1 kgMutton",
+                    "4 pcsPotato",
+                    "1/2 cupChopped onion",
+                    "1 tsp eachGinger-garlic paste",
+                    "1 tspCumin powder",
+                    "4 to 6 green cardamom pods"
+                ],
+                "cooking_method": "Cut the meat into small pieces, wash and drain properly. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color. Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside. Now in the same oil add chopped onions, bay leaves, cloves and cook for a minute to make onions tender. No need to fry onions to brown. Add garlic and ginger pastes and stir for a while. Now add cumin powder, red chili powder, cinnamon powder, cardamom powder and some water. Mix and cook well till the spices release oil. Now add meat pieces and mix them properly. No need to add water in this stage since meat releases water. Cook for 5 minutes",
+                "rating": "4.8"
+            },
+
+            {
+                "recipe_name": "Homestyle Chicken Korma",
+                
+                "ingredients": [
+                    "2 pounds bone-in chicken (dark meat best)",
+                    "2 medium onions  peeled",
+                    "1.5  inch of ginger, chopped",
+                    "4 cloves garlic, chopped",
+                    "½ cup whole-milk yogurt",
+                    "4 to 6 green cardamom pods"
+                ],
+                "cooking_method": "Thinly slice one onion and set aside Roughly chop the other onion, and then puree it in a blender with the garlic and ginger until smooth. Add water if necessary. Combine the puree, chicken, yogurt, cardamom, cinnamon, peppercorns, and bay leaves in a covered Dutch oven and simmer over medium-high heat, stirring occasionally for 10-15 minutes. Uncover and bring the pot to a low simmer Cook until chicken is tender. Flip occasionally. 20-35 minutes.Add in the sliced chilis and sugar and stir. Adjust the thickness of the gravy by adding water or cooking it down. Heat the ghee and the thinly sliced onions in a pan over medium heat until they are a rich brown. 5-7 minutes. Season the onions with a pinch of salt and stir it into the korma.",
+                "rating": "4.5"
+            },
+
+            {
+                "recipe_name": "Spicy Dry Chicken – Kosha Murgir Mangsho",
+                "ingredients": [
+                    "Chicken 100 grams. A whole chicken cut up into 8-10 pieces will work gret",
+                    "1/2 cup mustard oil",
+                    "4 bay leaves",
+                    "4-6 dried red chilies",
+                    "4 whole green cardamom",
+                    "2 tbsp sugar"
+                ],
+                "cooking_method": "Heat the mustard oil in a deep wok or saucepan over medium-high heat When hot add the cardamom pods bay leaves dried red chili and then sugar and stir for a minute Meanwhile blend garlic ginger and onion to make a paste and add it to the caramelized onions Saute 3-4 minutes and then add in the chicken Stir the chicken in the oil for 2 minutes until the chicken is uniformly coated with the spicesAdd the turmeric powder and saute an additional 5-6 minutes Add salt and stir Keep sauteing until the chicken surface or the skin starts turning a bit brown Now add the coriander powder red chili powder and cumin powder. Stir in the spices well and saute for 2-3 minutes Add the chopped tomatoes and further saute for 5-8 minutes Keep frying until the tomatoes are completely incorporated. If the spices start sticking to the po add a tablespoon of water or more to deglaze but keep in mind as to keep the dish just moist and not waterlogged.",
+                "rating": "4.5"
+            }
+
+        ],
+        "description": "Chef Fakruddin hails from Khulna, he started his career in Singapore some 37 years ago and graduated from Sydney, Australia and further studied in Melbourne and Miami, USA. Known for his eclectic style of cuisine he is awarded as a “Top 10 Chef in the world 1998”, in Melbourne and “Chef of the year 1991” in the Pacific, PNG. Mr. Chef Fakruddin has traveled and prepared food at five-star hotels and cruise.."
     }
 ]
