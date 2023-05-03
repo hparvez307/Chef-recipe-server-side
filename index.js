@@ -9,20 +9,20 @@ app.use(cors());
 
 // api for all chef details
 
-app.get('/', (req,res)=> {
+app.get('/', (req, res) => {
     res.send(chef);
 })
 
 // api for selected chef and recipe details
-app.get('/:id', (req,res)=> {
+app.get('/:id', (req, res) => {
 
     const id = req.params.id;
-    const selectedChef = chef.find( c => c.id === id);
+    const selectedChef = chef.find(c => c.id === id);
 
     res.send(selectedChef);
 })
 
 // setup server listener
-app.listen(port, ()=>{
+app.listen(port, () => {
     console.log('server is running');
 })
