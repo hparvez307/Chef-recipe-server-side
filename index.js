@@ -4,12 +4,16 @@ const chef = require('./data/chef.json');
 const app = express();
 const port = 5000;
 
+// cors for cross platform data use locally
 app.use(cors());
+
+// api for all chef details
 
 app.get('/', (req,res)=> {
     res.send(chef);
 })
 
+// api for selected chef and recipe details
 app.get('/:id', (req,res)=> {
 
     const id = req.params.id;
@@ -18,6 +22,7 @@ app.get('/:id', (req,res)=> {
     res.send(selectedChef);
 })
 
+// setup server listener
 app.listen(port, ()=>{
     console.log('server is running');
 })
